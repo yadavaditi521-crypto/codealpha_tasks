@@ -1,0 +1,39 @@
+Q: What is codealpha?
+A: CodeAlpha is a learning platform focused on practical software development projects, internships, and hands-on coding experience.
+K: codealpha, platform, learning, internship, project
+---
+Q: What is this chatbot?
+A: This is codealpha_AI chatbot — a Java-based FAQ assistant that uses Natural Language Processing and rule-based matching to answer common questions in real time.
+K: chatbot, bot, assistant, faq, codealpha
+---
+Q: What programming language is used?
+A: The chatbot is built using Java. It follows object-oriented design with separate modules for NLP, FAQ data, engine logic, and the GUI.
+K: java, language, programming, built, technology
+---
+Q: How does the chatbot understand my questions?
+A: Your input is normalized, tokenized, and compared against FAQ questions using NLP techniques such as stop-word removal, stemming, Jaccard similarity, and keyword matching.
+K: understand, nlp, process, matching, similarity, token
+---
+Q: Is this machine learning or rule-based?
+A: This project uses rule-based logic enhanced with NLP scoring. FAQ answers are predefined, and the best match is selected using weighted similarity and keyword rules.
+K: machine, learning, rule, based, ml, logic
+---
+Q: How do I run the project?
+A: Make sure Java 17+ is installed. Open a terminal in the project folder and run build.bat, then run.bat. You can also use Maven: mvn clean package && java -jar target/codealpha-ai-chatbot-1.0.0.jar
+K: run, start, execute, launch, maven, install
+---
+Q: What are the system requirements?
+A: You need Java Development Kit (JDK) 17 or higher. Apache Maven is optional for building. A desktop environment is required to run the Swing GUI.
+K: requirement, system, jdk, maven, java, desktop
+---
+Q: Can I add more FAQs?
+A: Yes. Edit the file src/main/resources/faqs.txt, add a new Q/A/K block separated by ---, then rebuild the project.
+K: add, faq, question, customize, train, update
+---
+Q: What interface does the chatbot use?
+A: The chatbot provides a Graphical User Interface (GUI) built with Java Swing, allowing real-time chat-style interaction.
+K: interface, gui, swing, window, real, time
+---
+Q: Who created this project?
+A: This project was created as part of the codealpha_AI chatbot assignment to demonstrate Java, NLP, FAQ handling, and GUI integration.
+K: created, author, developer, project, assignment

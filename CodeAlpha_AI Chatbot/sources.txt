@@ -1,0 +1,7 @@
+C:\Users\yadav\OneDrive\Desktop\CodeAlpha_AI Chatbot\src\main\java\com\codealpha\chatbot\Main.java
+C:\Users\yadav\OneDrive\Desktop\CodeAlpha_AI Chatbot\src\main\java\com\codealpha\chatbot\engine\ChatbotEngine.java
+C:\Users\yadav\OneDrive\Desktop\CodeAlpha_AI Chatbot\src\main\java\com\codealpha\chatbot\gui\ChatbotFrame.java
+C:\Users\yadav\OneDrive\Desktop\CodeAlpha_AI Chatbot\src\main\java\com\codealpha\chatbot\model\FAQ.java
+C:\Users\yadav\OneDrive\Desktop\CodeAlpha_AI Chatbot\src\main\java\com\codealpha\chatbot\model\FAQRepository.java
+C:\Users\yadav\OneDrive\Desktop\CodeAlpha_AI Chatbot\src\main\java\com\codealpha\chatbot\nlp\NLPProcessor.java
+C:\Users\yadav\OneDrive\Desktop\CodeAlpha_AI Chatbot\src\main\java\com\codealpha\chatbot\nlp\TextSimilarity.java
